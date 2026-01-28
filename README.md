@@ -80,6 +80,18 @@ Order Count
 <img width="580" height="455" alt="download (2)" src="https://github.com/user-attachments/assets/78e95f37-dabc-479a-8b8f-d0b1fa1ed9a5" />   <img width="571" height="455" alt="download (3)" src="https://github.com/user-attachments/assets/003404a1-0e62-4f11-877a-df7bf4862034" />
 
 
+With 1984 customer with normal purchase (Register first then order) and 880 Pre-Register customer (Order first then Register), Customer segmentation is designed to reflect intrinsic purchasing behavior. Product attributes such as brand and category are analyzed post-clustering to interpret and activate each segment.
 
+<img width="942" height="782" alt="Screenshot 2026-01-21 193627" src="https://github.com/user-attachments/assets/fcb6f75b-9002-41ce-b346-5f0d10b524da" />
 
+Revenue growth is driven by episodic high-value events rather than sustained customer activity. Loyal normal customers are declining, while pre-registered customers show high potential but inconsistent engagement. This indicates strong upside with weak retention fundamentals
 
+#Normal Customer
+
+The Loyal high value customer activity starts mid-2021, peaks around September 2021 / January-2022 with total revenue $716.79M. Units and revenue move together, After mid-2022, both collapse toward near-zero.
+Normal but low engagement segment has very low activity early 2021 then a sharp growth mid-2021 with $27,883M in revenue. Several spiky peaks in both units and revenue, and the revenue itself sometimes spikes sometimes exceed unit growth. This means the purchases are campaign-driven, not habitual.
+#Pre-register
+
+Extreme high volume segment has one very sharp revenue spike in April 2 022 with $237.130.190in revenue. Likely bulk or wholesale-type behavior. That spike is probably one large order, one special event, or one major customer
+Loyal high value has almost flat for a long time. Then one massive revenue spike with minimal unit increase caused by $570.775.388 in revenue
+Normal but low engagement showing us that the Pre-registration does not guarantee activation. Behavior mirrors low-engagement normal customers.
