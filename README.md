@@ -50,4 +50,36 @@ Recommendations
 <img width="715" height="278" alt="profit and revenue" src="https://github.com/user-attachments/assets/cb34ac3a-5247-4ed4-93c6-32d13c8ecbf4" />
 <img width="721" height="278" alt="aov" src="https://github.com/user-attachments/assets/8a086d4d-d36c-423a-81b7-9a3a8211040b" />
 
+Sales Profit
+
+1. High Fluctuation Q2-Q4 in 2022 – A Major Sales Anomaly
+
+Q2 (Apr-Jun) become the strongest quarter with $333 M. However, in this periode, the sales was heavily carried by April sales, in June sales started to become normal.
+October-November 2022 Sales Profit was $33M (Previous years: $188M). This represents a ~80-85% drop from last year 2021, it should be noted that Oct-Nov was the best periode during 2021, while in 2022 it became the worst 2 month in terms of sales.
+2. Declining Growth Throughout 2022 – Indicating Weak Consumer Demand
+
+Each quarter in 2022 experienced a fluctuative trend.
+Q1: Started fairly strong ($63M in Jan) ~400% higher than 2021.
+Q2 – Q3: big sales in April, July, and September, but after that the sales always dropped down into it’s normal state. This suggests customer product based-issues. TechSquare may need to re-strategize through making deals with the company product to reduce the amount of cost and gaining exclusive pricing.
+Q4: worst of 2022, only ($14M in October and keep declining into $12M in November.
+Average Order Value
+1. AOV generally stable at low baseline, From Jan 2021 to mid 2022, AOV stayed flat with small fluctuations
+
+April 2022 has the highest AOV growth within this periode of time, peaking at $1.1M. Meanwhile, April 2021 has the lowest AOV growth with only $425K.
+2. 2022 AOV is higher and relatively more volatile compared to previous years
+
+Excluding the anomaly month (Sep), 2022 AOV ($861K) is better than 2021($760K).
+September makes the AOV of 2022 become $1.09M, the AOV collapse after this periode, this is a risk, not a win.
+3. AOV Decline in October 2022 Indicate Anomaly.
+
+From a peak of ~$7.6M in September, AOV steadily dropped to ~$795K in October which is 89% drop.
+In August, the AOV ~$886K, this suggest that without October being an anomaly, the AOV growth would be more stable. No “new normal” is formed, this is not scalable, retained, and did not reshape purcashing pattern.
+Order Count
+
+# Customer Behaviour
+<img width="580" height="455" alt="download (2)" src="https://github.com/user-attachments/assets/78e95f37-dabc-479a-8b8f-d0b1fa1ed9a5" />   <img width="571" height="455" alt="download (3)" src="https://github.com/user-attachments/assets/003404a1-0e62-4f11-877a-df7bf4862034" />
+
+
+
+
 
