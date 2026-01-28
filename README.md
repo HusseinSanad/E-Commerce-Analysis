@@ -105,17 +105,29 @@ Normal but low engagement showing us that the Pre-registration does not guarante
 
 
 # Answers to Stakeholders Questions
+
 1.In 2021, in which month was the highest total transaction value (after_discount) recorded? November with $259.038.092 in Revenue
+
 2.In 2022, which category generated the highest transaction value? Mobiles and Tablets with $918.451.576 in Revenue.
+
 3.Compare transaction values for each category in 2021 and 2022. Identify categories with increased or decreased transaction values from 2021 to 2022.
+
+
 
 <img width="765" height="403" alt="Screenshot 2026-01-21 203325" src="https://github.com/user-attachments/assets/5989923e-5ff1-45ca-b700-3be21c0d0633" />
 
+
+
 4.Show the top 5 most popular payment methods used in 2022 (based on total unique orders).
+
+
 
 <img width="289" height="164" alt="Screenshot 2026-01-21 203409" src="https://github.com/user-attachments/assets/9a82c56d-f7bd-4e2c-ac22-d42803cc7ebe" />
 
 5.Rank the following 5 products by transaction value: Samsung, Apple, Sony, Huawei, and Lenovo.
+
+
+
 <img width="321" height="157" alt="Screenshot 2026-01-21 203439" src="https://github.com/user-attachments/assets/c3e3d3cd-5a28-4697-8721-16bbe73ea8fe" />
 
 
