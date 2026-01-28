@@ -86,12 +86,36 @@ With 1984 customer with normal purchase (Register first then order) and 880 Pre-
 
 Revenue growth is driven by episodic high-value events rather than sustained customer activity. Loyal normal customers are declining, while pre-registered customers show high potential but inconsistent engagement. This indicates strong upside with weak retention fundamentals
 
-#Normal Customer
+# Normal Customer
 
 The Loyal high value customer activity starts mid-2021, peaks around September 2021 / January-2022 with total revenue $716.79M. Units and revenue move together, After mid-2022, both collapse toward near-zero.
 Normal but low engagement segment has very low activity early 2021 then a sharp growth mid-2021 with $27,883M in revenue. Several spiky peaks in both units and revenue, and the revenue itself sometimes spikes sometimes exceed unit growth. This means the purchases are campaign-driven, not habitual.
-#Pre-register
+
+# Pre-register
 
 Extreme high volume segment has one very sharp revenue spike in April 2 022 with $237.130.190in revenue. Likely bulk or wholesale-type behavior. That spike is probably one large order, one special event, or one major customer
 Loyal high value has almost flat for a long time. Then one massive revenue spike with minimal unit increase caused by $570.775.388 in revenue
 Normal but low engagement showing us that the Pre-registration does not guarantee activation. Behavior mirrors low-engagement normal customers.
+
+<img width="714" height="314" alt="AOV Brand Distritbution" src="https://github.com/user-attachments/assets/6e811156-89fe-43bc-9c9d-17f390d5d802" />
+
+
+
+
+
+
+# Answers to Stakeholders Questions
+1.In 2021, in which month was the highest total transaction value (after_discount) recorded? November with $259.038.092 in Revenue
+2.In 2022, which category generated the highest transaction value? Mobiles and Tablets with $918.451.576 in Revenue.
+3.Compare transaction values for each category in 2021 and 2022. Identify categories with increased or decreased transaction values from 2021 to 2022.
+
+<img width="765" height="403" alt="Screenshot 2026-01-21 203325" src="https://github.com/user-attachments/assets/5989923e-5ff1-45ca-b700-3be21c0d0633" />
+
+4.Show the top 5 most popular payment methods used in 2022 (based on total unique orders).
+
+<img width="289" height="164" alt="Screenshot 2026-01-21 203409" src="https://github.com/user-attachments/assets/9a82c56d-f7bd-4e2c-ac22-d42803cc7ebe" />
+
+5.Rank the following 5 products by transaction value: Samsung, Apple, Sony, Huawei, and Lenovo.
+<img width="321" height="157" alt="Screenshot 2026-01-21 203439" src="https://github.com/user-attachments/assets/c3e3d3cd-5a28-4697-8721-16bbe73ea8fe" />
+
+
